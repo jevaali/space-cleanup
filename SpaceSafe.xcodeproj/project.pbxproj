@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		ACAF31EC2FB0858700931830 /* SpaceSafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpaceSafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC0855372FB31B7A00C18E79 /* SpaceSafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpaceSafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,8 @@
 			isa = PBXGroup;
 			children = (
 				ACAF31EE2FB0858700931830 /* SpaceSafe */,
-				ACAF31ED2FB0858700931830 /* Products */,
+				AC0855372FB31B7A00C18E79 /* SpaceSafe.app */,
 			);
-			sourceTree = "<group>";
-		};
-		ACAF31ED2FB0858700931830 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				ACAF31EC2FB0858700931830 /* SpaceSafe.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -67,7 +59,7 @@
 			packageProductDependencies = (
 			);
 			productName = SpaceSafe;
-			productReference = ACAF31EC2FB0858700931830 /* SpaceSafe.app */;
+			productReference = AC0855372FB31B7A00C18E79 /* SpaceSafe.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -95,7 +87,7 @@
 			mainGroup = ACAF31E32FB0858700931830;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = ACAF31ED2FB0858700931830 /* Products */;
+			productRefGroup = ACAF31E32FB0858700931830;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -251,6 +243,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6JNK35LFPS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -282,6 +275,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6JNK35LFPS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
