@@ -17,6 +17,7 @@ Built with **SwiftUI** and **SpriteKit**. It started as the mobile companion to 
   <img src="docs/screenshots/satellite-info.png" width="200" alt="Satellite info sheet" />
 </p>
 
+---
 
 ## About the project
 
