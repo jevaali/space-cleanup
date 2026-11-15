@@ -19,7 +19,11 @@ Built with **SwiftUI** and **SpriteKit**. It started as the mobile companion to 
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/a77b112b-04e0-42a6-9b50-635aa17feb34
+
+
+https://github.com/user-attachments/assets/adb9f879-4961-4578-bb55-c08c5482ea72
+
+
 
 ---
 
