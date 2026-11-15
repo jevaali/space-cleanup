@@ -6,15 +6,20 @@ Built with **SwiftUI** and **SpriteKit**. It started as the mobile companion to 
 [Space Situational Awareness Platform](link).
 
 <p align="center">
-  <img src="docs/screenshots/menu.png" width="230" alt="Main menu" />
-  <img src="docs/screenshots/gameplay.png" width="230" alt="Gameplay" />
-  <img src="docs/screenshots/game-over.png" width="230" alt="Game over with debris rewards" />
+  <img src="docs/screenshots/menu.png" width="200" alt="Main menu" />
+  <img src="docs/screenshots/gameplay.png" width="200" alt="Gameplay" />
+  <img src="docs/screenshots/game-over.png" width="200" alt="Game over with debris rewards" />
+  <img src="docs/screenshots/high-score.png" width="200" alt="New high score" />
 </p>
 <p align="center">
-  <img src="docs/screenshots/collection.png" width="230" alt="Debris collection" />
-  <img src="docs/screenshots/learn.png" width="230" alt="Learn section with quiz" />
-  <img src="docs/screenshots/satellite-info.png" width="230" alt="Satellite info sheet" />
+  <img src="docs/screenshots/collection.png" width="200" alt="Debris collection" />
+  <img src="docs/screenshots/learn.png" width="200" alt="Learn section with quiz" />
+  <img src="docs/screenshots/satellite-info.png" width="200" alt="Satellite info sheet" />
 </p>
+
+## 🎬 Demo
+
+https://github.com/user-attachments/assets/9ca2d4b3-7e52-4b89-a5fb-231cc9ddaa55
 
 ---
 
