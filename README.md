@@ -3,7 +3,7 @@
 An educational iOS game about the growing problem of space debris. Drag junk into Earth's atmosphere to burn it up, tap comets before they hit, and keep working satellites alive, while learning real facts about orbital debris along the way.
 
 Built with **SwiftUI** and **SpriteKit**. It started as the mobile companion to the
-[Space Situational Awareness Platform](link).
+[Space Situational Awareness Platform](https://github.com/jevaali/satsafe-v2).
 
 <p align="center">
   <img src="docs/screenshots/menu.png" width="200" alt="Main menu" />
@@ -47,12 +47,12 @@ The offline version keeps the same features but moves that logic into a local pe
 
 ## Features
 
-- 🎮 **Arcade gameplay in SpriteKit:** drag debris into the atmosphere, tap comets away, and survive as the game speeds up.
-- 🛰️ **6 real satellites** (Hubble, Sentinel-2A, Landsat 9, ISS, GPS III, GOES-16), each with its own difficulty tier, unlock cost and info sheet with real orbital data.
-- 🪨 **Collectible debris** based on real objects such as Vanguard 1, Envisat and fragments of the 2009 Iridium–Cosmos collision, across 5 rarity tiers.
-- 🏆 **Personal best runs** and high scores for each satellite.
-- 📚 **Learn section:** 12 illustrated topics about space debris, each with a quiz question.
-- 💾 **Progress is saved** on the device between launches.
+- **Arcade gameplay in SpriteKit:** drag debris into the atmosphere, tap comets away, and survive as the game speeds up.
+- **6 real satellites** (Hubble, Sentinel-2A, Landsat 9, ISS, GPS III, GOES-16), each with its own difficulty tier, unlock cost and info sheet with real orbital data.
+- **Collectible debris** based on real objects such as Vanguard 1, Envisat and fragments of the 2009 Iridium–Cosmos collision, across 5 rarity tiers.
+- **Personal best runs** and high scores for each satellite.
+- **Learn section:** 12 illustrated topics about space debris, each with a quiz question.
+- **Progress is saved** on the device between launches.
 ---
 
 ## Architecture
@@ -80,15 +80,12 @@ SpaceSafe/
 
 ## Getting started
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/<this-repo>.git
-   ```
+1. Clone the repo.
 2. Open the `.xcodeproj` in Xcode 16 or later.
 3. Choose an iPhone or iPad simulator and press **Run** (⌘R).
 
 The `main` branch needs no setup. To run the `with-backend` version, switch to that branch and follow the setup instructions in the
-[SSA Platform repository](link).
+[SSA Platform repository](https://github.com/jevaali/satsafe-v2).
 
 ---
 
